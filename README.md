@@ -10,4 +10,8 @@
 
 ## Conexion a maquina EC2
 
+
+![image](https://user-images.githubusercontent.com/54339107/198163702-91154f5e-1432-48df-b330-d662d8c89f76.png)
+
+
 ![image](https://user-images.githubusercontent.com/54339107/198163533-0ce9e882-bbfd-4c8b-bdb5-3ad898821895.png)
