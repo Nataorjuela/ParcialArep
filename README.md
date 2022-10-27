@@ -15,3 +15,15 @@
 
 
 ![image](https://user-images.githubusercontent.com/54339107/198163533-0ce9e882-bbfd-4c8b-bdb5-3ad898821895.png)
+
+Instalamos java en la maquina
+
+![image](https://user-images.githubusercontent.com/54339107/198165623-7fa9a8d1-cad8-4047-9903-a69f6a32b682.png)
+
+Programa jar corriendo 
+
+![image](https://user-images.githubusercontent.com/54339107/198165717-0829505b-b96f-43c0-bfd6-854c58c2b1b6.png)
+
+
+Link Video (https://www.youtube.com/watch?v=rJ5YtNKW8wE)
+
